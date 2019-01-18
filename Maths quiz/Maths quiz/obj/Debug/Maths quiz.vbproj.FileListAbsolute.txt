@@ -1,0 +1,12 @@
+C:\Users\rishi\Desktop\deep dive\projects\Maths quiz\Maths quiz\bin\Debug\Maths quiz.exe.config
+C:\Users\rishi\Desktop\deep dive\projects\Maths quiz\Maths quiz\bin\Debug\Maths quiz.exe
+C:\Users\rishi\Desktop\deep dive\projects\Maths quiz\Maths quiz\bin\Debug\Maths quiz.pdb
+C:\Users\rishi\Desktop\deep dive\projects\Maths quiz\Maths quiz\bin\Debug\Maths quiz.xml
+C:\Users\rishi\Desktop\deep dive\projects\Maths quiz\Maths quiz\obj\Debug\Maths quiz.vbprojAssemblyReference.cache
+C:\Users\rishi\Desktop\deep dive\projects\Maths quiz\Maths quiz\obj\Debug\Maths_quiz.Form1.resources
+C:\Users\rishi\Desktop\deep dive\projects\Maths quiz\Maths quiz\obj\Debug\Maths_quiz.Resources.resources
+C:\Users\rishi\Desktop\deep dive\projects\Maths quiz\Maths quiz\obj\Debug\Maths quiz.vbproj.GenerateResource.cache
+C:\Users\rishi\Desktop\deep dive\projects\Maths quiz\Maths quiz\obj\Debug\Maths quiz.vbproj.CoreCompileInputs.cache
+C:\Users\rishi\Desktop\deep dive\projects\Maths quiz\Maths quiz\obj\Debug\Maths quiz.exe
+C:\Users\rishi\Desktop\deep dive\projects\Maths quiz\Maths quiz\obj\Debug\Maths quiz.xml
+C:\Users\rishi\Desktop\deep dive\projects\Maths quiz\Maths quiz\obj\Debug\Maths quiz.pdb
